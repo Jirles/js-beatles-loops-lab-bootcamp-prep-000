@@ -20,7 +20,6 @@ function iLoveTheBeatles(int){
   do {
     feelTheLove.push("I love the Beatles!")
     int++
-  } while (int<15){
-  }
-  
+  } while (int<15)
+  return array
 }
