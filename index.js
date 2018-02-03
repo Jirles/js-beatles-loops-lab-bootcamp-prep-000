@@ -14,3 +14,13 @@ function johnLennonFacts(array){
   }
   return array
 }
+
+function iLoveTheBeatles(int){
+  var feelTheLove = []
+  do {
+    feelTheLove.push("I love the Beatles!")
+    int++
+  } while (int<15){
+  }
+  
+}
