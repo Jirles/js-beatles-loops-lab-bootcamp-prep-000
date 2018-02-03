@@ -21,5 +21,5 @@ function iLoveTheBeatles(int){
     feelTheLove.push("I love the Beatles!")
     int++
   } while (int<15)
-  return array
+  return feelTheLove
 }
